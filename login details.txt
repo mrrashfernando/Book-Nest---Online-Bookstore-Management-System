@@ -1,0 +1,12 @@
+_USER
+
+pass:rashmika2004@gmail.com
+user:1234567
+
+_ADMIN
+
+user:admin01@gmail.com
+pass:123456
+
+user:hiru22@gmail.com
+pass:12345678
